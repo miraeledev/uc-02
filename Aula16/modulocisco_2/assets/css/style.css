@@ -1,0 +1,35 @@
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #11a26b;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        #mission-statement {
+            color: #32CD32;
+        }
+        #upcoming-events {
+            color: #FFA07A;
+            background-color: #FFFFE0;
+        }
+        #contact {
+            color: #20B2AA;
+        }
+        .outdoor {
+            background-color: #AFEEEE;
+            padding: 5px;
+        }
+        .date {
+            font-weight: bold;
+            color: red;
+        }
+        .section {
+            background-color: #f8f3f3;
+            padding: 10px;
+        }
+    
